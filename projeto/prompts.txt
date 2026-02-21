@@ -1,0 +1,17 @@
+## Prompt 1 ##
+Explique como planejar uma reserva de emergência com renda baixa.
+
+## Prompt 2 ##
+Tomando como base o exemplo que você deu de R$ 2000,00 guardando 10% no mês, no ano eu teria guardado R$1200,00, porém, quando teria se guardasse esse valor na poupança ou nessa aplicação do CDB com liquidez diária que foi sugerido? Gostaria de saber com base em 1 ano e 10 anos.
+
+## Prompt 3 ##
+Sim, pelo que entendi, primeiro teria que ter minha reserva de emergência com liquidez diária para poder tirar quando eu precisar e depois uma aplicação mais a longo prazo no caso do meu exemplo para 10, 20, 30 anos, correto?
+
+## Prompt 4 ##
+Por fim, com base no exemplo dos R$ 2000,00 de renda mensal, qual seria o cenário ideal que eu pague todas as minhas despesas e ainda consiga guardar os R$ 100,00. Qual seria a porcentagem para uma despesa de casa, lazer, estudos, etc?
+
+## Prompt 5 ##
+Converse sobre o que essas fontes dizem de Conceitos Básicos, no contexto mais amplo de Educação Financeira e Investimentos.
+
+## Prompt 6 ##
+Converse sobre o que essas fontes dizem de Cenário Brasileiro, no contexto mais amplo de Educação Financeira e Investimentos.
